@@ -9,9 +9,9 @@ $(document).ready(function(e){
 
 //本站运行时间，更改自己建立站点的时间
 function show_date_time(){
-$('.framework-info').html('weiji-Feng的后花园已经安全运行<span id="span_dt_dt" style="color: #000;"></span>');
+$('.framework-info').html('<font style=color:#afb4db>' + 'weiji-Feng的后花园已经安全运行<span id="span_dt_dt" style="color: #000;"></span>' + '</font>');
 window.setTimeout("show_date_time()", 1000);
-BirthDay=new Date("3/5/2022 0:0:0");
+BirthDay=new Date("23/5/2023 0:0:0");
 today=new Date();
 timeold=(today.getTime()-BirthDay.getTime());
 sectimeold=timeold/1000
