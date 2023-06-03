@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/06/03/Survey4MATH/"/>
+      <url>/2023/06/03/Survey4MATH/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Large-Language-Model-For-Math"><a href="#Large-Language-Model-For-Math" class="headerlink" title="Large-Language-Model For Math"></a>Large-Language-Model For Math</h1><p>由于最近在做相关方向的科研，将阅读的论文整理在这里。</p><aside>💡 **阅读记录格式：**### Pretraining1. **which foundation models are based on?**2. **what tokenizers are adopted?**3. **which datasets are collected specific for “math”?**4. **what types of pre-processing methods are introduced?**5. **other information that  you think is important**### Fine-tuning1. **which datasets are used?**2. **what types of pre-processing methods are used?**### Evaluation1. **which datasets are used?**2. **what type of pre-processing methods are used?**3. **what evaluation metrics are used?**</aside><h3 id="阅读的论文列表："><a href="#阅读的论文列表：" class="headerlink" title="阅读的论文列表："></a>阅读的论文列表：</h3><p><a href="https://www.notion.so/Training-Verifiers-to-Solve-Math-Word-Problems-db6822f1cf9b45ad960b1dbb574ab4b8">Training Verifiers to Solve Math Word Problems</a></p><p><a href="https://www.notion.so/Solving-Quantitative-Reasoning-Problems-with-Language-Models-19b339fda58246fbadb22166a78b6ffd">Solving Quantitative Reasoning Problems with Language Models</a></p><p><a href="https://www.notion.so/MathPrompter-Mathematical-Reasoning-using-Large-Language-Models-92db0f041ac94c53884e799948af207d"><strong><strong>MathPrompter: Mathematical Reasoning using Large Language Models</strong></strong></a></p><p><a href="https://www.notion.so/PAL-Program-aided-Language-Models-ddaecc337f414b8ea37985999bdec23c"><strong>PAL: Program-aided Language Models</strong></a></p><p><a href="https://www.notion.so/Specializing-Smaller-Language-Models-towards-Multi-Step-Reasoning-6e8af05836f243058cc8d2374162c2c6"><strong>Specializing Smaller Language Models towards Multi-Step Reasoning</strong></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Image2Poem</title>
       <link href="/2023/05/23/Image2Poem/"/>
       <url>/2023/05/23/Image2Poem/</url>
