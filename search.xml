@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
+      <title>Large-Language-Model For Math</title>
       <link href="/2023/06/03/Survey4MATH/"/>
       <url>/2023/06/03/Survey4MATH/</url>
       
         <content type="html"><![CDATA[<h1 id="Large-Language-Model-For-Math"><a href="#Large-Language-Model-For-Math" class="headerlink" title="Large-Language-Model For Math"></a>Large-Language-Model For Math</h1><p>由于最近在做相关方向的科研，将阅读的论文整理在这里。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">💡 阅读记录格式:</span><br><span class="line"></span><br><span class="line">### Pretraining</span><br><span class="line"></span><br><span class="line">1. which foundation models are based on?</span><br><span class="line">2. what tokenizers are adopted?</span><br><span class="line">3. which datasets are collected specific for &quot;math&quot;?</span><br><span class="line">4. what types of pre-processing methods are introduced?</span><br><span class="line">5. other information that  you think is important</span><br><span class="line"></span><br><span class="line">### Fine-tuning</span><br><span class="line"></span><br><span class="line">1. which datasets are used?</span><br><span class="line">2. what types of pre-processing methods are used?</span><br><span class="line"></span><br><span class="line">### Evaluation</span><br><span class="line"></span><br><span class="line">1. which datasets are used?</span><br><span class="line">2. what type of pre-processing methods are used?</span><br><span class="line">3. what evaluation metrics are used?</span><br></pre></td></tr></table></figure><h3 id="阅读的论文列表："><a href="#阅读的论文列表：" class="headerlink" title="阅读的论文列表："></a>阅读的论文列表：</h3><p><a href="https://www.notion.so/Training-Verifiers-to-Solve-Math-Word-Problems-db6822f1cf9b45ad960b1dbb574ab4b8">Training Verifiers to Solve Math Word Problems</a></p><p><a href="https://www.notion.so/Solving-Quantitative-Reasoning-Problems-with-Language-Models-19b339fda58246fbadb22166a78b6ffd">Solving Quantitative Reasoning Problems with Language Models</a></p><p><a href="https://www.notion.so/MathPrompter-Mathematical-Reasoning-using-Large-Language-Models-92db0f041ac94c53884e799948af207d">MathPrompter: Mathematical Reasoning using Large Language Models</a></p><p><a href="https://www.notion.so/PAL-Program-aided-Language-Models-ddaecc337f414b8ea37985999bdec23c">PAL: Program-aided Language Models</a></p><p><a href="https://www.notion.so/Specializing-Smaller-Language-Models-towards-Multi-Step-Reasoning-6e8af05836f243058cc8d2374162c2c6">Specializing Smaller Language Models towards Multi-Step Reasoning</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> llm </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DeepLearning </tag>
+            
+        </tags>
       
     </entry>
     
